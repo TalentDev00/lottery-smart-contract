@@ -113,8 +113,7 @@ contract Lottery is Ownable {
         return random;
     }
 
-    /** resetLottery function resets lottery and find the Winner.
-     */
+    
     function resetLottery() internal {
         gameStatus = false;
         getWinner();
