@@ -1,6 +1,5 @@
 /**
   * @Lottery.sol
-  * @author  Sanchit Balchandani <balchandani.sanchit@gmail.com>
   *
   * The smart contract is about a Lottery Game on ethereum blockchain
   * which allows owner of the contract to instantiate the lottery and have
